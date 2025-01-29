@@ -115,7 +115,7 @@ themes:
   #     - Ballistics
   #     - Digital evidence
   #     - DNA and biological evidence
-  #     - Drugs and toxicology
+      - Drugs and toxicology
   #     - Fingerprints and pattern evidence
   #     - Trace evidence
   #
@@ -222,8 +222,8 @@ themes:
   #     - Mathematical knowledge management
   #     - Modeling and simulation research
   #     - Numerical methods and software
-  #     - Statistical analysis
-  #     - Uncertainty quantification
+      - Statistical analysis
+      - Uncertainty quantification
   #
   # - Metrology
   #     - Acoustic/vibration metrology
